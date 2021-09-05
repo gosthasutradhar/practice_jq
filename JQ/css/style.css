@@ -1,0 +1,66 @@
+/*header start*/
+header{
+background-color: lightgreen;
+padding: 10px 0;
+}
+.c_nav{}
+.logo{}
+.menu{}
+.menu ul li a{
+font-size: 22px;
+font-weight: 700;
+color: #010101 !important;
+padding: 0 44px !important;
+transition: .3s;
+}
+.menu ul li:last-child a{
+margin-right: 0 !important;
+}
+.menu ul li a:hover{
+color: white !important;
+}
+/*header end*/
+/*counter start*/
+.counterup{
+	padding: 10px 0;
+	background-color: lightgray;
+}
+.counterup h1{
+	margin-bottom: 50px;
+}
+.single_count i{
+	font-size: 50px;
+	margin-bottom: 20px;
+}
+.single_count span{
+	font-size: 16px;
+	text-transform: uppercase;
+}
+/*counter end*/
+/*curve text strat*/
+#text1
+{
+    margin:           3.0em 0.0em;
+    overflow:         hidden;
+    font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
+
+/*curve text end*/
+/*silder start*/
+.slider{
+	padding: 50px 0;
+}
+/*slider end*/
+/*Animation*/
+.animation_text{
+	width: 700px;
+    margin: 150px auto;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Roboto Condensed';
+    text-align: center;
+    background-color: #fafafa;
+}
+/*Animation*/
